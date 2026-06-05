@@ -6,6 +6,7 @@ import Services from '@/components/sections/Services'
 import About from '@/components/sections/About'
 import Process from '@/components/sections/Process'
 import Contact from '@/components/sections/Contact'
+import Socials from '@/components/sections/Socials';
 
 export default function Home() {
   return (
@@ -21,7 +22,9 @@ export default function Home() {
         <Process />
         <Contact />
       </main>
+      <Socials />
       <Footer />
+
     </>
   )
 }

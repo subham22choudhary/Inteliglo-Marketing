@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Footer() {
     return (
         <footer style={{
@@ -35,6 +37,7 @@ export default function Footer() {
                 }}>
                     Digital Intelligence Company
                 </div>
+
             </div>
 
             {/* Center: Copyright */}
@@ -67,6 +70,23 @@ export default function Footer() {
             </div>
 
             <style>{`
+        .footer-socials-link {
+          display: inline-block;
+          margin-top: 0.75rem;
+          font-family: var(--font-mono);
+          font-size: 0.6rem;
+          letter-spacing: 0.15em;
+          text-transform: uppercase;
+          color: var(--sky);
+          text-decoration: none;
+          border-bottom: 1px solid rgba(0,212,255,0.3);
+          padding-bottom: 1px;
+          transition: border-color 0.2s ease, color 0.2s ease;
+        }
+        .footer-socials-link:hover {
+          color: #00ff88;
+          border-color: rgba(0,255,136,0.6);
+        }
         @media (max-width: 700px) {
           footer {
             grid-template-columns: 1fr !important;
@@ -77,8 +97,7 @@ export default function Footer() {
             text-align: center !important;
           }
         }
-      `}
-            </style>
+      `}</style>
         </footer>
     )
 }
