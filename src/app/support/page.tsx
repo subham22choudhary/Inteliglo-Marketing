@@ -124,7 +124,7 @@ export default function SupportPage() {
           </div>
         </div>
 
-        <div className="support-form-section">
+        {/* <div className="support-form-section">
           <h2>Send Us a Message</h2>
           <div className="support-form-grid">
             <div>
@@ -155,7 +155,7 @@ export default function SupportPage() {
             </div>
           </div>
           <button className="support-btn">Send Message →</button>
-        </div>
+        </div> */}
 
         <footer className="support-footer">
           © {new Date().getFullYear()} Inteliglo. All rights reserved. &nbsp;|&nbsp; Digital Intelligence Company &nbsp;|&nbsp; India
