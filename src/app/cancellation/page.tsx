@@ -1,5 +1,4 @@
 import type { Metadata } from 'next'
-import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
@@ -11,7 +10,7 @@ export const metadata: Metadata = {
 export default function CancellationPage() {
   return (
     <>
-      <Header />
+
       <div style={{ paddingTop: '70px', position: 'relative', zIndex: 1 }}>
         <main style={{ maxWidth: '760px', margin: '0 auto', padding: '4rem 2rem 6rem' }}>
 
