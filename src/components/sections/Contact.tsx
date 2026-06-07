@@ -192,7 +192,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.6rem', letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--muted)', display: 'block' }}>Email Us</span>
-                                <span style={{ fontSize: '0.9rem', color: 'var(--white)' }}>hello.inteliglo@gmail.com</span>
+                                <span style={{ fontSize: '0.9rem', color: 'var(--white)' }}>hello@inteliglo.com</span>
                             </div>
                         </div>
 
@@ -242,7 +242,7 @@ export default function Contact() {
                         }}>
                             <div style={{ fontFamily: 'var(--font-mono)', fontSize: '0.65rem', color: 'var(--muted)', lineHeight: 2 }}>
                                 <span style={{ color: 'var(--sky)' }}>Response Time:</span> &lt; 24 hours<br />
-                                <span style={{ color: 'var(--sky)' }}>Availability:</span> Mon – Sat, 9AM – 7PM IST<br />
+                                <span style={{ color: 'var(--sky)' }}>Availability:</span> 24/7, All Days<br />
                                 <span style={{ color: 'var(--sky)' }}>Free Consultation:</span> 30-min discovery call
                             </div>
                         </div>
