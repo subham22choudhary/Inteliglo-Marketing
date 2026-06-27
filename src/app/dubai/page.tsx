@@ -329,7 +329,7 @@ export default function InteligloLanding() {
           50% { box-shadow: 0 0 0 5px rgba(201,168,76,0); }
         }
         .hero h1 {
-          font-size: clamp(42px, 5.2vw, 74px); font-weight: 800;
+          font-size: clamp(42px, 3.5vw, 61px); font-weight: 800;
           line-height: 1.06; letter-spacing: -0.025em; color: #fff; margin-bottom: 26px;
         }
         .rgb-word {
