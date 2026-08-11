@@ -303,7 +303,7 @@ export default function TermsOfServicePage() {
               <br />
               Phone:{' '}
               <a href="tel:+918860686869" style={{ color: 'var(--sky)' }}>
-                +91 88606 86869
+                +91 8210219654
               </a>
               <br />
               Hours: Monday–Saturday, 9AM–7PM IST

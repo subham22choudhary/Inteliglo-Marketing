@@ -80,7 +80,7 @@ export default function SupportPage() {
                   icon: '☎',
                   label: 'Phone Support',
                   desc: 'Call us on our domestic India number.',
-                  link: { href: 'tel:+918860686869', text: '+91 88606 86869' },
+                  link: { href: 'tel:+918860686869', text: '+91 8210219654' },
                   sub: 'Mon–Sat, 9AM–7PM IST',
                 },
                 {
@@ -284,7 +284,7 @@ export default function SupportPage() {
               <br />
               Phone:{' '}
               <a href="tel:+918860686869" style={{ color: 'var(--sky)' }}>
-                +91 88606 86869
+                +91 8210219654
               </a>
               <br />
               Hours: Monday–Saturday, 9AM–7PM IST

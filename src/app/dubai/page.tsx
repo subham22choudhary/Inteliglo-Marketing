@@ -799,7 +799,7 @@ export default function InteligloLanding() {
                         </p>
                         <div className="cta-actions">
                             <a className="btn-gold" href="tel:+918860686869">
-                                📞 Call Now — +91 88606 86869
+                                📞 Call Now — +91 8210219654
                             </a>
                             <a className="btn-ghost" href="https://wa.me/918860686869" target="_blank" rel="noreferrer">
                                 💬 WhatsApp Our Team
