@@ -210,7 +210,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.6rem', letterSpacing: '0.2em', textTransform: 'uppercase', color: 'var(--muted)', display: 'block' }}>Call Us</span>
-                                <span style={{ fontSize: '0.9rem', color: 'var(--white)' }}>+91 8210219654</span>
+                                <span style={{ fontSize: '0.9rem', color: 'var(--white)' }}>+91 82102 19654, +91 88606 86869</span>
                             </div>
                         </div>
 
